@@ -24,10 +24,7 @@ tags: [mentor]
   <!-- iterate over the dataset of cohorts.
        Check the dates and make a line between each.
   -->
-  {% assign
-     cohorts = site.data.mentor_cohorts |
-               sort: 'quarter'
-  %}
+  {% assign cohorts = site.data.mentor_cohorts | sort: 'quarter' %}
   {% for cohort in cohorts reversed %}
   <section>
 
