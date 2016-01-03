@@ -2,7 +2,7 @@
 
   <ul id="sitenav">
 
-      <li><a href="{{ site.baseurl }}">Blog home</a></li>
+      <li><a href="{{ '/' | prepend: site.baseurl }}">Blog home</a></li>
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
