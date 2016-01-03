@@ -11,7 +11,7 @@ email: chicago-organizers@python.org
 description: > # this means to ignore newlines until "baseurl:"
   The Chicago Python User Group's blog about Python
   in Chicago and its surrounding areas.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/tmp" # the subpath of your site, e.g. /blog
 collections:
   - mentor_program
   - python_shops
