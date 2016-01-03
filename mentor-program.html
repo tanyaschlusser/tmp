@@ -1,0 +1,64 @@
+---
+layout: default
+title: Mentor program
+permalink: /mentor-program/
+categories: [mentorship]
+tags: [mentor]
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Mentor/Mentee posts</h1>
+
+  <p>ChiPy's mentor program pairs experienced members
+    of the Python community with an appropriate mentee
+    match.  The 10 week program has
+    three tracks: Python 101, Web development, and
+    Data Science, and at the end of the program,
+    mentees present their projects at one of
+    our monthly
+    <a href="http://www.meetup.com/_Chipy_/">
+      ChiPy meetups</a>.
+  </p>
+
+  <!-- iterate over the dataset of cohorts.
+       Check the dates and make a line between each.
+  -->
+  {% assign
+     cohorts = site.data.mentor_cohorts |
+               sort: 'quarter'
+  %}
+  {% for cohort in cohorts reversed %}
+  <section>
+
+    <h2>{{ cohort.quarter }} cohort</h2>
+  <!-- List of the mentor / mentee pairs  -->
+    <div class="mentor-program-container">
+    {% for pair in cohort.pairs %}
+      <div class="mentor-program-pair">
+        <span class="post-meta">mentor:</span>
+        {{ pair.mentor }}
+        <br/>
+        <span class="post-meta">mentee:</span>
+        {{ pair.mentee }}
+      </div>
+    {% endfor %}
+    </div>
+  <!-- Related posts for the cohort -->
+    <ul class="post-list">
+      {% for post in site.tags.mentor %}
+        {% if post.tags contains cohort.quarter %}
+          <li>
+            <span class="post-meta">
+              {{ post.date | date: "%b %-d, %Y" }}
+            </span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+  </section>
+  {% endfor %}
+
+</div>

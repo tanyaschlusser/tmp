@@ -1,0 +1,24 @@
+---
+layout: default
+title: Python shops
+permalink: /python-shops/
+tags: [shops]
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Python in Chicago</h1>
+  <p>ChiPy couldn't exist without the support of Python shops in Chicago
+  </p>
+
+  <ul class="post-list">
+    {% for post in site.tags.shops %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

@@ -1,0 +1,18 @@
+<svg 
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.2"
+    viewBox="0 0 200 19"
+    height="100%"
+    width="100%">
+  <defs>
+    <path id="star" fill="#CC0000" d="M 5.0 0.0 L 4.0 3.27 L 0.67 2.5 L 3.0 5.0 L 0.67 7.5 L 4.0 6.73 L 5.0 10.0 L 6.0 6.73 L 9.33 7.5 L 7.0 5.0 L 9.33 2.5 L 6.0 3.27"/>
+    <path id="river" fill="#58B9F7" d="M 0 0 L 350 0 L 350 3 L 0 3 L 0 0"/>
+  </defs>
+  <use x="0" y="0" xlink:href="#river"/>
+  <use x="40" y="5" xlink:href="#star"/>
+  <use x="80" y="5" xlink:href="#star"/>
+  <use x="120" y="5" xlink:href="#star"/>
+  <use x="160" y="5" xlink:href="#star"/>
+  <use x="0" y="16" xlink:href="#river"/>
+</svg>

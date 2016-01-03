@@ -1,0 +1,19 @@
+<nav>
+
+  <ul id="sitenav">
+
+      <li><a href="/">Blog home</a></li>
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+          <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+
+  </ul>
+
+</nav>
+<div style="display:flex;justify-content:center;align-items:center">
+  <!--span class="chicago"></span-->
+    <a class="brand" href="http://www.chipy.org/"></a>
+  <!--span class="chicago"></span-->
+</div>

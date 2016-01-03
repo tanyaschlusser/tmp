@@ -1,0 +1,37 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: ChiPy's Blog
+email: chicago-organizers@python.org
+description: > # this means to ignore newlines until "baseurl:"
+  The Chicago Python User Group's blog about Python
+  in Chicago and its surrounding areas.
+baseurl: "" # the subpath of your site, e.g. /blog
+collections:
+  - mentor_program
+  - python_shops
+  - pythonistas
+defaults:
+  -
+    scope:
+      path: "blog"
+      type: "posts"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "python_shops"
+      type: "posts"
+    values:
+      layout: "default"
+url: "http://www.blog.chipy.org" # the base hostname & protocol for your site
+twitter_username: chicagopython
+github_username:  chicagopython
+
+# Build settings
+markdown: kramdown
