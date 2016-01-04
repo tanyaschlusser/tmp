@@ -19,17 +19,28 @@ collections:
 defaults:
   -
     scope:
-      path: "blog"
+      path: ""
       type: "posts"
     values:
       layout: "default"
+      tags: []
   -
     scope:
-      path: "python_shops"
+      path: "python-shops"
       type: "posts"
     values:
       layout: "default"
-url: "http://www.blog.chipy.org" # the base hostname & protocol for your site
+      tags: ["shops"]
+  -
+    scope:
+      path: "mentor-program"
+      type: "posts"
+    values:
+      layout: "default"
+      tags: ["mentor"]
+
+
+#url: "http://www.blog.chipy.org" # the base hostname & protocol for your site
 twitter_username: chicagopython
 github_username:  chicagopython
 
