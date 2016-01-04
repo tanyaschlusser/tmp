@@ -30,6 +30,7 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+      categories: ["python-shops"]
       tags: ["shops"]
   -
     scope:
@@ -37,6 +38,7 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+      categories: ["mentor-program"]
       tags: ["mentor"]
 
 
