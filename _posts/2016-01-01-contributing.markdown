@@ -1,6 +1,5 @@
 ---
 title:  "Contributing to ChiPy's blog"
-permalink: contributing
 date:  2015-12-31 22:50:00 -0600
 ---
 
