@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The Chicago Python User Group's blog about Python
   in Chicago and its surrounding areas.
 baseurl: "/tmp" # the subpath of your site, e.g. /blog
-permalink: /:categories/:year/:title  # Don't add the date to the permalink
+permalink: pretty # Don't add the date to the permalink
 collections:
   - mentor_program
   - python_shops
@@ -24,13 +24,13 @@ defaults:
       type: "posts"
     values:
       layout: "default"
+      permalink: /:categories/:year/:title  # Don't add the date to the permalink
       tags: []
   -
     scope:
       path: "python-shops"
       type: "posts"
     values:
-      layout: "default"
       categories: ["python-shops"]
       tags: ["shops"]
   -
@@ -38,7 +38,6 @@ defaults:
       path: "mentor-program"
       type: "posts"
     values:
-      layout: "default"
       categories: ["mentor-program"]
       tags: ["mentor"]
 
