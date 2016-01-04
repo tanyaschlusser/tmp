@@ -3,22 +3,14 @@ title:  "Contributing to ChiPy's blog"
 date:  2015-12-31 22:50:00 -0600
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and make a pull request to add the post to ChiPy's blog. Be sure to change the tags above re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to ChiPy's blog. We love contributors! This blog is [hosted on Github][chipy-gh]
+using Github Pages and [Jekyll][jekyll]. You can fork it and make a pull request, or of
+course talk to us at a [meetup][chipy-meetup].
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+There is an example post in the repo's *_drafts* directory with instructions on
+how to contribute. 
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight python %}
-def print_hi(name):
-    print("Hi", name)
-
-print_hi('Tom')
-# prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[chipy-gh]: https://github.com/chicagopython/chicagopython.github.io
+[chipy-meetup]: http://www.meetup.com/_Chipy_
+[jekyll]: http://jekyllrb.com/
