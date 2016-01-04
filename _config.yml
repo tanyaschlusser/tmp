@@ -24,7 +24,7 @@ defaults:
       type: "posts"
     values:
       layout: "default"
-      permalink: /:categories/:year/:title  # Don't add the date to the permalink
+      permalink: "/:categories/:year/:title"  # Don't add the date to the permalink
       tags: []
   -
     scope:
