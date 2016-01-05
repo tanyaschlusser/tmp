@@ -1,12 +1,57 @@
 ---
-title:  "Gogo"
-date:  2016-01-03 22:00:00 -0600
+title:  "Gogo’s Chicago devops team talks Python with ChiPy"
+date:  2016-01-14 23:00:00 -0600
+description: "Chipy explores why Python programmers are becoming sought after for roles in devops in Chicago with Gogo’s Chicago devops team."
+seo-targets: ["python programmer", "devops jobs"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+{::comment}
+SEO target phrase stats (as of 12/22/2015)
+* “python programmer” 110 searches / month
+* “devops chicago” 50 searches / month (01/05/2016)
+* “chicago devops” 20 searches / month (01/05/2016)
+{:/comment}
 
-Jekyll also offers powerful support for code snippets:
+Takeaway:
+Tech is growing in Chicago, as witnessed by Gogo's thrivi
+Tech ais growing in chicago, witnees Gogo.
+Python is a big part of it
+
+
+Writing Tips:  (great web copy isn’t written, it’s assembled!)
+Write the “takeaway,” a single sentence summary
+Write the outline, the headers
+Fill in the blanks, but keep paragraphs short
+Make it scan-able with formatting (numbered lists, bullets, bold, internal linking ,etc.)
+Keep it real. Use your own voice, avoid jargon, have fun!
+
+
+Gogo moved its headquarters to downtown Chicago from Itasca, Illinois last year,
+adding around 500 tech professionals to the growing local scene. They occupy the
+top 4 floors of the newly renovated office right next to the train station
+at 111 N. Canal, and have reached out to local tech groups like ours to help
+with hosting events and growing the local scene.
+
+![Gogo headquarters with airplanes](img/2016/gogo/Gogo111NCanal.jpg)
+![Gogo headquarters with airplanes](img/2016/gogo/Gogo111NCanal.jpg)
+
+
+Inside, there's 
+
+2008 commercial airline debu
+
+
+Over a quarter of Python Programmers in our recent ChiPy survey say they’re in DevOps. It’s been a growing trend here in Chicago and also across the country as vendors come out w
+
+
+This month's teams are 
+Gogo's got devops jobs, and now that they're downtown, the Chicago Python users’ group can     see why everybody wants them.
+
+
+
+
+An image: ![gras](img/image.jpg)
+
 
 {% highlight ruby %}
 def print_hi(name)
@@ -16,8 +61,6 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+[python_java]: https://dzone.com/articles/learn-python-overtakes-learn-java
