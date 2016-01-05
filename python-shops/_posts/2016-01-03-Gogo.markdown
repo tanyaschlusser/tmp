@@ -50,17 +50,18 @@ approves:
 
 Gogo's primary language is Java, but they're a polyglot shop, and
 Python is growing increasingly popular in devops. In Chicago,
-our Python user group survey][survey-Q42015]
-shows approxomately equal interest in devops, web development,
+our [Python user group survey][survey-Q42015]
+shows approximately equal interest in devops, web development,
 and data science, with the highest growth in Devops.
 
 ### Why Python and not Ruby? Especially if they're using Chef?
 
 ### What else do they use?
 
-![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="width:30%"}
-![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="width:30%"}
-![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="width:30%"}
+![Gogo entry way]({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg){: style="height:21%"}
+![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="height:21%"}
+![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="height:21%"}
+![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="height:21%"}
 
 
 ## Where do they see Chicago's tech scene going in 2016 and beyond?
@@ -71,5 +72,5 @@ and data science, with the highest growth in Devops.
 
 
 
-[survey-Q42015] http://tanyaschlusser.github.io/tmp/python-shops/2016/02/survey
+[survey-Q42015]: http://tanyaschlusser.github.io/tmp/python-shops/2016/02/survey
 [python_java]: https://dzone.com/articles/learn-python-overtakes-learn-java
