@@ -32,7 +32,7 @@ top 4 floors of the newly renovated office right next to the train station
 at 111 N. Canal, and have reached out to local tech groups like ours to help
 with hosting events and growing the local scene.
 
-![Gogo headquarters with airplanes]({{ site.baseurl }}/img/2016/gogo/Gogo111NCanal.jpg)
+![Gogo headquarters with airplanes]({{ site.baseurl }}/img/2016/gogo/Gogo111NCanal.jpg){: style="width:50%"}
 ![Tathagata in Gogo's test wifi cabin]({{ site.baseurl }}/img/2016/gogo/GogoTestWifiCabin.jpg)
 
 
