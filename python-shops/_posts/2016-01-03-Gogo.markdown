@@ -55,18 +55,19 @@ shows approxomately equal interest in devops, web development,
 and data science, with the highest growth in Devops.
 
 ### Why Python and not Ruby? Especially if they're using Chef?
+
 ### What else do they use?
 
+![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="width:30%"}
+![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="width:30%"}
+![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="width:30%"}
 
-![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="height:10vh;align:center"}
-![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="height:10vh;align:center"}
-![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="height:10vh;align:center"}
 
+## Where do they see Chicago's tech scene going in 2016 and beyond?
 
-## Where do they see the tech scene going in 2016 and beyond?
 ### Do you see any local talent gaps?
-### What open source projects do you like?
 
+### What open source projects do you like?
 
 
 
