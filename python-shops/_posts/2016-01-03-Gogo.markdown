@@ -58,10 +58,10 @@ and data science, with the highest growth in Devops.
 
 ### What else do they use?
 
-![Gogo entry way]({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg){: style="height:21vh"}
-![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="height:21vh"}
-![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="height:21vh"}
-![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="height:21vh"}
+![Gogo entry way]({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg){: style="width:21%"}
+![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="width:21%"}
+![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="width:21%"}
+![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="width:21%"}
 
 
 ## Where do they see Chicago's tech scene going in 2016 and beyond?
