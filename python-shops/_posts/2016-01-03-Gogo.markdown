@@ -80,7 +80,7 @@ They're also involved in a handful of open source projects like [Errbot](http://
 <div style="height:12vh;margin:1vh;">
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg"
-  style="width:16.96;margin:1px"
+  style="width:16.96%;margin:1px"
   name="Gogo entryway"
 />
 <img
