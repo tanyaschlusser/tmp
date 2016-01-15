@@ -87,12 +87,12 @@ They're also involved in a handful of open source projects like [Errbot](http://
 ></div>
 <div
   class="flex-image"
-  style="width:21.32%;margin:1em;background-mage:url({{ site.baseurl }}/div/2016/gogo/GogoOpenSpace.jpg)"
+  style="width:21.32%;margin:1em;background-mage:url({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg)"
   name="Gogo open space area"
 ></div>
 <div
   class="flex-image"
-  style="width:20.96%;margin:1em;background-image:url({{ site.baseurl }}/div/2016/gogo/GogoFoosball.jpg"
+  style="width:20.96%;margin:1em;background-image:url({{ site.baseurl }}img/2016/gogo/GogoFoosball.jpg"
   name="Gogo foosball table"
 ></div>
 <div
