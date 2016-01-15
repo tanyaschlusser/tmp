@@ -53,15 +53,16 @@ and data science, with the highest growth in Devops.
 We asked a few questions for curious Chicago Pythonistas:
 
 
-### What is DevOps using Python for? Why not Ruby? I'm surprised DevOps is so big in the Python community.
+### Q: What is DevOps using Python for? Why not Ruby? I'm surprised DevOps is so big in the Python community.
 
-We love Python. Seriously. I don't think that we use it because we're DevOps, but rather we come from an operations and development backgrounds where Python is - without exception - our language of choice. What's that Ruby thing of which you speak? We used to be a Puppet shop, but we recently made the switch to Ansible to help bootstrap our servers in AWS.
+> We love Python. Seriously. I don't think that we use it because we're DevOps, but rather we come from an operations and development backgrounds where Python is - without exception - our language of choice. What's that Ruby thing of which you speak? We used to be a Puppet shop, but we recently made the switch to Ansible to help bootstrap our servers in AWS.
 
 
-### Where do you see Chicago's tech scene going in 2016 and beyond?
+### Q: Where do you see Chicago's tech scene going in 2016 and beyond?
 
-The biggest worry in my mind is that there's a growing skills shortage in the Chicago area, and whereas supply-and-demand may cause salary hikes, it's going to hamstring companies and limit everyone's ability to grow. With that being said, we feel it is important for the City of Chicago to invest in tech hubs and educational programs around technology (including our schools). Some of our employees today volunteer to help with [Hour of Code](http://www.code.org) (a program for people around the world to spend one hour to learn to code) and we are always looking for new ways to help out the community in any way we can (both with and without technology).
-
+> The biggest worry in my mind is that there's a growing skills shortage in the Chicago area, and whereas supply-and-demand may cause salary hikes, it's going to hamstring companies and limit everyone's ability to grow. With that being said, we feel it is important for the City of Chicago to invest in tech hubs and educational programs around technology (including our schools).
+> 
+> Some of our employees today volunteer to help with [Hour of Code](http://www.code.org) (a program for people around the world to spend one hour to learn to code) and we are always looking for new ways to help out the community in any way we can (both with and without technology).
 
 
 ### Favorite packages
