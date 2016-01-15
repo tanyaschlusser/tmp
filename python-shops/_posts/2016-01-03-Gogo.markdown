@@ -70,9 +70,11 @@ The biggest worry in my mind is that there's a growing skills shortage in the Ch
 * [Click](http://click.pocoo.org/5/) — Composed CLIs; Argparse for multi-layered projects
 * [Requests](http://docs.python-requests.org/en/latest/) Who doesn't love it?
 
-They also use [Ansible's Python API](http://docs.ansible.com/ansible/developing_api.html), and are wishing they'd finally upgrade to Python 3 *ChiPy says: it's the future!* Also ...
+They also use [Ansible's Python API](http://docs.ansible.com/ansible/developing_api.html), and are wishing they'd finally upgrade to Python 3 *ChiPy says: it's the future!*
 
-We're involved in a handful of open source projects like [Errbot](http://errbot.io/) and [Graphite](https://github.com/graphite-project/). We have some fun on-the-side personal projects in GitHub like [Rop](https://github.com/ak15199/rop) for driving LED arrays, and we have our own in-house project (pyasgard) for glue between Jenkins and Netflix Asgard that we'd like to open source when we're happy with it.
+They're also involved in a handful of open source projects like [Errbot](http://errbot.io/) and [Graphite](https://github.com/graphite-project/), and some fun on-the-side personal projects in GitHub like [Rop](https://github.com/ak15199/rop) for driving LED arrays. They may also soon open source `pyasgard` -- their own in-house project that glues [Jenkins](https://jenkins-ci.org/) and [Netflix Asgard](https://github.com/Netflix/asgard/wiki/Quick-Start-Guide), once they're happy with it.
+
+*ChiPy approves: Open Source All the Things!*
 
 
 <div style="display:flex;flex-wrap:nowrap;justify-content:center">
