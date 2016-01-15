@@ -13,7 +13,7 @@ SEO target phrase stats (as of 12/22/2015)
 {:/comment}
 
 
-# Gogo’s devops team talks Python and Chicago's growing tech scene
+# Gogo’s devops team talks Python
 
 ![Gogo headquarters with airplanes]({{ site.baseurl }}/img/2016/gogo/Gogo111NCanal.jpg){: style="width:45%;padding-left:27%;padding-right:27%"}
 
