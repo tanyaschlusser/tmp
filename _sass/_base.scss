@@ -42,7 +42,7 @@ ul, ol, dl, figure,
 
 h1, h2, h3, h4, h5, h6 {
   color: darken($brand-color, 20%);
-  text-shadow: 1px 1px 0px #CCC;
+  /*text-shadow: 1px 1px 0px #CCC; shadow is horrible */
 }
 
 
