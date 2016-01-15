@@ -79,7 +79,7 @@ They're also involved in a handful of open source projects like [Errbot](http://
 
 ### Views inside Gogo
 
-<div style="width:90%;display:flex;flex-wrap:nowrap;justify-content:center">
+<div style="display:flex;flex-wrap:nowrap;justify-content:center">
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg"
   style="margin:1em;flex: 1 1 auto"
