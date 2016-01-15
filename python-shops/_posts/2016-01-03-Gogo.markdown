@@ -68,10 +68,10 @@ We love Python. Seriously. I don't think that we use it because we're DevOps, bu
 
 ### (Our favorite views in their office)
 
-![Gogo entry way]({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg){: style="width:auto;height:15vw"}
-![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="width:auto;height:15vw;"}
-![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="width:auto;height:15vw;"}
-![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="width:auto;height:15vw;"}
+![Gogo entry way]({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg){: style="width:auto;height:12vw"}
+![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="width:auto;height:12vw;"}
+![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="width:auto;height:12vw;"}
+![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="width:auto;height:12vw;"}
 
 
 ### Where do you see Chicago's tech scene going in 2016 and beyond?
