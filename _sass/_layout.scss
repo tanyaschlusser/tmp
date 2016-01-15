@@ -39,6 +39,13 @@
   height: 1em;
 }
 
+.flex-image {
+  margin: 1em;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 
 header {
   display: flex;
