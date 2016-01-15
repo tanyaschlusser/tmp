@@ -43,10 +43,6 @@ approves:
 ![Tathagata in Gogo's test wifi cabin]({{ site.baseurl }}/img/2016/gogo/GogoTestWifiCabin.jpg){: style="width:50%;padding-left:24%;padding-right:24%"}
 
 
-T, and all of our tireless mentors and mentees did an incredible job
-once again with the mentorship program. Interested people should
-look for future announcements on [our listserv](https://mail.python.org/mailman/listinfo/chicago).
-
 The Gogo's devops team describes itself as diverse, fast-paced, and fun.
 We also asked a few questions for curious Chicago Pythonistas:
 
