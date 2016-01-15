@@ -58,12 +58,21 @@ We asked a few questions for curious Chicago Pythonistas:
 We love Python. Seriously. I don't think that we use it because we're DevOps, but rather we come from an operations and development backgrounds where Python is - without exception - our language of choice. What's that Ruby thing of which you speak? We used to be a Puppet shop, but we recently made the switch to Ansible to help bootstrap our servers in AWS.
 
 
+### Where do you see Chicago's tech scene going in 2016 and beyond?
+
+The biggest worry in my mind is that there's a growing skills shortage in the Chicago area, and whereas supply-and-demand may cause salary hikes, it's going to hamstring companies and limit everyone's ability to grow. With that being said, we feel it is important for the City of Chicago to invest in tech hubs and educational programs around technology (including our schools). Some of our employees today volunteer to help with [Hour of Code](http://www.code.org) (a program for people around the world to spend one hour to learn to code) and we are always looking for new ways to help out the community in any way we can (both with and without technology).
+
+
+
 ### Favorite packages
 
-* [Ansible's Python API](http://docs.ansible.com/ansible/developing_api.html) — wishing they would upgrade to Python 3...
 * [Boto3](https://boto3.readthedocs.org/en/latest/) — the AWS SDK for Python
 * [Click](http://click.pocoo.org/5/) — Composed CLIs; Argparse for multi-layered projects
 * [Requests](http://docs.python-requests.org/en/latest/) Who doesn't love it?
+
+They also use [Ansible's Python API](http://docs.ansible.com/ansible/developing_api.html), and are wishing they'd finally upgrade to Python 3 *ChiPy says: it's the future!* Also ...
+
+We're involved in a handful of open source projects like [Errbot](http://errbot.io/) and [Graphite](https://github.com/graphite-project/). We have some fun on-the-side personal projects in GitHub like [Rop](https://github.com/ak15199/rop) for driving LED arrays, and we have our own in-house project (pyasgard) for glue between Jenkins and Netflix Asgard that we'd like to open source when we're happy with it.
 
 
 <div style="display:flex;flex-wrap:nowrap;justify-content:center">
@@ -88,18 +97,6 @@ We love Python. Seriously. I don't think that we use it because we're DevOps, bu
   alt="Gogo break room"
 />
 </div>
-
-
-### Where do you see Chicago's tech scene going in 2016 and beyond?
-
-The biggest worry in my mind is that there's a growing skills shortage in the Chicago area, and whereas supply-and-demand may cause salary hikes, it's going to hamstring companies and limit everyone's ability to grow. With that being said, we feel it is important for the City of Chicago to invest in tech hubs and educational programs around technology (including our schools). Some of our employees today volunteer to help with [Hour of Code](http://www.code.org) (a program for people around the world to spend one hour to learn to code) and we are always looking for new ways to help out the community in any way we can (both with and without technology).
-
-
-### What open source projects do you like?
-
-We're already involved in a handful of open source projects like [Errbot](http://errbot.io/) and [Graphite](https://github.com/graphite-project/). We have some fun on-the-side personal projects in GitHub like [Rop](https://github.com/ak15199/rop) for driving LED arrays, and we have our own in-house project (pyasgard) for glue between Jenkins and Netflix Asgard that we'd like to open source when we're happy with it.
-
-
 
 
 [survey-Q42015]: http://tanyaschlusser.github.io/tmp/python-shops/2016/02/survey
