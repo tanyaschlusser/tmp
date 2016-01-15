@@ -77,24 +77,24 @@ They're also involved in a handful of open source projects like [Errbot](http://
 (*ChiPy approves: Open Source All the Things!*)
 
 
-<div style="height:12vh;margin:1vh;display:flex;flex-wrap:nowrap;justify-content:center">
+<div style="height:12vh;margin:1vh;">
 <div
-  class="flex-image"
+  class="inrow-image"
   style="width:16.96%;background-image:url({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg)"
   name="Gogo entryway"
 ></div>
 <div
-  class="flex-image"
+  class="inrow-image"
   style="width:21.32%;margin:1em;background-image:url({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg)"
   name="Gogo open space area"
 ></div>
 <div
-  class="flex-image"
+  class="inrow-image"
   style="width:20.96%;margin:1em;background-image:url({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg"
   name="Gogo foosball table"
 ></div>
 <div
-  class="flex-image"
+  class="inrow-image"
   style="width:24%;margin:1em;background-image:url({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg)"
   name="Gogo break room"
 />
