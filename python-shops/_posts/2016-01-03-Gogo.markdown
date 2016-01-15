@@ -44,16 +44,14 @@ approves:
 
 
 The Gogo's devops team describes itself as diverse, fast-paced, and fun.
-We also asked a few questions for curious Chicago Pythonistas:
-
-
-## Python programming in the devops team
-
 Gogo's primary language is Java, but they're a polyglot shop, and
 Python is growing increasingly popular in devops. In Chicago,
 our [Python user group survey][survey-Q42015]
 shows approximately equal interest in devops, web development,
 and data science, with the highest growth in Devops.
+
+We asked a few questions for curious Chicago Pythonistas:
+
 
 ### What is DevOps using Python for? Why not Ruby? I'm surprised DevOps is so big in the Python community.
 
