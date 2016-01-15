@@ -14,12 +14,14 @@ SEO target phrase stats (as of 12/22/2015)
 
 
 # Gogo’s devops team talks Python and Chicago's growing tech scene
+
 ![Gogo headquarters with airplanes]({{ site.baseurl }}/img/2016/gogo/Gogo111NCanal.jpg){: style="width:45%;padding-left:27%;padding-right:27%"}
 
-Tech is growing in Chicago, as witnessed by Gogo's hip new downtown headquarters.
-Gogo Inc. moved downtown from Itasca, Illinois last year, and occupies the
-top four floors of the newly renovated office right next to the train station
-at 111 N. Canal. 
+ChiPy's January 2016 meetup was held at our newest [platinum
+sponsor]() Gogo's headquarters. Their move downtown from Itasca, Illinois last
+year is more proof that tech is growing in Chicago.
+Gogo Inc. occupies the
+top four floors of the newly renovated office right next to Union station.
 The largest downtown move in 2015, it injected 500 more tech professionals
 into the Chicago scene. And lucky for ChiPy, they are eager grow technology
 in Chicago by hosting events like ours.
@@ -41,9 +43,12 @@ approves:
 ![Tathagata in Gogo's test wifi cabin]({{ site.baseurl }}/img/2016/gogo/GogoTestWifiCabin.jpg){: style="width:50%;padding-left:24%;padding-right:24%"}
 
 
-## Why Chicago?
+T, and all of our tireless mentors and mentees did an incredible job
+once again with the mentorship program. Interested people should
+look for future announcements on [our listserv](https://mail.python.org/mailman/listinfo/chicago).
 
-&lt;&lt; Need help from Jodie / Tyler &gt;&gt;
+The Gogo's devops team describes itself as diverse, fast-paced, and fun.
+We also asked a few questions for curious Chicago Pythonistas:
 
 
 ## Python programming in the devops team
@@ -54,21 +59,36 @@ our [Python user group survey][survey-Q42015]
 shows approximately equal interest in devops, web development,
 and data science, with the highest growth in Devops.
 
-### Why Python and not Ruby? Especially if they're using Chef?
+### What is DevOps using Python for? Why not Ruby? I'm surprised DevOps is so big in the Python community.
 
-### What else do they use?
-
-![Gogo entry way]({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg){: style="width:21%"}
-![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="width:21%"}
-![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="width:21%"}
-![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="width:21%"}
+We love Python. Seriously. I don't think that we use it because we're DevOps, but rather we come from an operations and development backgrounds where Python is - without exception - our language of choice. What's that Ruby thing of which you speak? We used to be a Puppet shop, but we recently made the switch to Ansible to help bootstrap our servers in AWS.
 
 
-## Where do they see Chicago's tech scene going in 2016 and beyond?
+### Favorite packages
 
-### Do you see any local talent gaps?
+* [Ansible's Python API](http://docs.ansible.com/ansible/developing_api.html) — wishing they would upgrade to Python 3...
+* [Boto3](https://boto3.readthedocs.org/en/latest/) — the AWS SDK for Python
+* [Click](http://click.pocoo.org/5/) — Composed CLIs; Argparse for multi-layered projects
+* [Requests](http://docs.python-requests.org/en/latest/) Who doesn't love it?
+
+
+### (Our favorite views in their office)
+
+![Gogo entry way]({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg){: style="width:auto;height:150px"}
+![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="width:auto;height:150px;"}
+![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="width:auto;height:150px;"}
+![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="width:auto;height:150px;"}
+
+
+### Where do you see Chicago's tech scene going in 2016 and beyond?
+
+The biggest worry in my mind is that there's a growing skills shortage in the Chicago area, and whereas supply-and-demand may cause salary hikes, it's going to hamstring companies and limit everyone's ability to grow. With that being said, we feel it is important for the City of Chicago to invest in tech hubs and educational programs around technology (including our schools). Some of our employees today volunteer to help with [Hour of Code](http://www.code.org) (a program for people around the world to spend one hour to learn to code) and we are always looking for new ways to help out the community in any way we can (both with and without technology).
+
 
 ### What open source projects do you like?
+
+We're already involved in a handful of open source projects like [Errbot](http://errbot.io/) and [Graphite](https://github.com/graphite-project/). We have some fun on-the-side personal projects in GitHub like [Rop](https://github.com/ak15199/rop) for driving LED arrays, and we have our own in-house project (pyasgard) for glue between Jenkins and Netflix Asgard that we'd like to open source when we're happy with it.
+
 
 
 
