@@ -82,22 +82,22 @@ They're also involved in a handful of open source projects like [Errbot](http://
 <div style="width:90%;display:flex;flex-wrap:nowrap;justify-content:center">
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg"
-  style="width:auto;height:15vw;margin:1vw;flex: 0 1 auto"
+  style="width:auto;height:15vw;margin:1vw;"
   alt="Gogo entryway"
 />
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg"
-  style="width:auto;height:15vw;margin:1vw;flex: 0 1 auto"
+  style="width:auto;height:15vw;margin:1vw;"
   alt="Gogo open space area"
 />
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg"
-  style="width:auto;height:15vw;margin:1vw;flex: 0 1 auto"
+  style="width:auto;height:15vw;margin:1vw;"
   alt="Gogo foosball table"
 />
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg"
-  style="width:auto;height:15vw;margin:1vw;flex-grow:1;flex: 0 1 auto"
+  style="width:auto;height:15vw;margin:1vw;"
   alt="Gogo break room"
 />
 </div>
