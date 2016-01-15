@@ -66,13 +66,29 @@ We love Python. Seriously. I don't think that we use it because we're DevOps, bu
 * [Requests](http://docs.python-requests.org/en/latest/) Who doesn't love it?
 
 
-### (Our favorite views in their office)
-
 <div style="display:flex;flex-wrap:nowrap;justify-content:center">
-![Gogo entry way]({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg){: style="width:auto;height:12vw"}
-![Gogo open space area]({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg){: style="width:auto;height:12vw;"}
-![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg){: style="width:auto;height:12vw;"}
-![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg){: style="width:auto;height:12vw;"}
+<img
+  src="{{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg)"
+  style="width:auto;height:12vw"
+  alt="Gogo entryway"
+/>
+
+
+<img
+  src="{{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg"
+  style="width:auto;height:12vw"
+  alt="Gogo open space area"
+/>
+<img
+  src="![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg"
+  style="width:auto;height:12vw"
+  alt=""
+/>
+<img
+  src="![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg"
+  style="width:auto;height:12vw"
+  alt=""
+/>
 </div>
 
 
