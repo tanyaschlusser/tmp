@@ -77,10 +77,10 @@ They're also involved in a handful of open source projects like [Errbot](http://
 (*ChiPy approves: Open Source All the Things!*)
 
 
-<div style="height:12vh;margin:1vh;">
+<div>
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg"
-  style="width:16.96%;margin:1px"
+  style="width:16.96%;margin:1px;margin-left:5%"
   name="Gogo entryway"
 />
 <img
@@ -95,7 +95,7 @@ They're also involved in a handful of open source projects like [Errbot](http://
 />
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg"
-  style="width:24%;margin:1px;"
+  style="width:24%;margin:1px;margin-right:5%"
   name="Gogo break room"
 />
 </div>
