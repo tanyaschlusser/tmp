@@ -78,24 +78,24 @@ They're also involved in a handful of open source projects like [Errbot](http://
 
 
 <div style="height:12vh;margin:1vh;">
-<div
-  class="inrow-image"
-  style="width:16.96%;background-image:url({{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg)"
+<img
+  src="{{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg"
+  style="width:16.96;margin:1px"
   name="Gogo entryway"
-></div>
-<div
-  class="inrow-image"
-  style="width:21.32%;margin:1em;background-image:url({{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg)"
+/>
+<img
+  src="{{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg"
+  style="width:21.32%;margin:1px"
   name="Gogo open space area"
-></div>
-<div
-  class="inrow-image"
-  style="width:20.96%;margin:1em;background-image:url({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg"
+/>
+<img
+  src="{{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg"
+  style="width:20.96%;margin:1px;"
   name="Gogo foosball table"
-></div>
-<div
-  class="inrow-image"
-  style="width:24%;margin:1em;background-image:url({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg)"
+/>
+<img
+  src="{{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg"
+  style="width:24%;margin:1px;"
   name="Gogo break room"
 />
 </div>
