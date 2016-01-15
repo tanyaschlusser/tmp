@@ -68,26 +68,24 @@ We love Python. Seriously. I don't think that we use it because we're DevOps, bu
 
 <div style="display:flex;flex-wrap:nowrap;justify-content:center">
 <img
-  src="{{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg)"
+  src="{{ site.baseurl }}/img/2016/gogo/GogoEntryWay.jpg"
   style="width:auto;height:12vw"
   alt="Gogo entryway"
 />
-
-
 <img
   src="{{ site.baseurl }}/img/2016/gogo/GogoOpenSpace.jpg"
   style="width:auto;height:12vw"
   alt="Gogo open space area"
 />
 <img
-  src="![Gogo foosball table]({{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg"
+  src="{{ site.baseurl }}/img/2016/gogo/GogoFoosball.jpg"
   style="width:auto;height:12vw"
-  alt=""
+  alt="Gogo foosball table"
 />
 <img
-  src="![Gogo break room]({{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg"
+  src="{{ site.baseurl }}/img/2016/gogo/GogoBreakRoom.jpg"
   style="width:auto;height:12vw"
-  alt=""
+  alt="Gogo break room"
 />
 </div>
 
